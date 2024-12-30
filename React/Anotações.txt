@@ -1,0 +1,12 @@
+React Native
+    É um Framework JavaScript.
+    Permite criar aplicações Mobile.
+    É um projeto Open Source mantido pelo Facebook.
+    Lançado em 2015.
+
+    #Alguns pontos sobre o React Native
+        React Native é diferente de React.
+            React - é uma biblioteca JavaScript para construir interfaces Web.
+            React Native - utiliza o React para renderizar aplicações android e IOS.
+        Utiliza Component Mobile ao invés do HTML como o React.
+        Permite criar apps para Android e IOS com a mesma base de código.
