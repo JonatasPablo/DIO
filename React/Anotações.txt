@@ -1,3 +1,6 @@
+Documentação oficial está em:
+    https://www.reactnative.dev
+
 React Native
     É um Framework JavaScript.
     Permite criar aplicações Mobile.
@@ -10,3 +13,35 @@ React Native
             React Native - utiliza o React para renderizar aplicações android e IOS.
         Utiliza Component Mobile ao invés do HTML como o React.
         Permite criar apps para Android e IOS com a mesma base de código.
+    
+    JSX é uma abreviatura de JavaScript XML. É um plugin que permite aos desenvolvedores escrever código HTML simples na programação React.
+    Qual a linguagem? JavaScript ou Typescript.
+
+    Apps que utilizam React Native:
+        Facebook
+        Office
+        Outlook
+        Teams
+        Game Pass Xbox
+        Skype
+        Discord
+        Pinterest
+        entre outros..
+
+O desenvolvimento Mobile para android foi desenvolvido originalmente por Java e Klotin, e o IOS em ObjectiveC e Swift, esses são chamados de Nativos no desenvolvimento Mobile.
+    Vantagens:
+        Recebe as atualizações de controle do Hardware primeiro, 100% de Aproveitamento do Hardware.
+        Aproveitamento de otimização de performance do aparelho.
+        Quando optar: o negócio depende de algum recurso ou tecnologia que só está disponível no sistema original.
+
+    Desvantagens:
+        O App precisa ser reescrito para cada plataforma específica.
+
+O desenvolvimento Mobile para android foi evoluindo e com isso apareceu as ferramentas como React Native, Xamarin, Framework, Ionic ew Flutter, conhecidos no desenvolvimento Mobile de Híbridos.
+    Vantagens:
+        Reaproveita seus conhecimentos e Skills de outras techs.
+        O mesmo código funciona em multi-plataforma, tanto Android quanto IOS.
+        Quando optar: O negócio não depende de especificidades do Hardware.
+
+    Desvantagens:
+        
