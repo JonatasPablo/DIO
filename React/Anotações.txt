@@ -1,6 +1,12 @@
 Documentação oficial está em:
     https://www.reactnative.dev
 
+Expo:
+    https://expo.dev
+
+instalação do Node JS
+    Página oficial - https://nodejs.org
+
 React Native
     É um Framework JavaScript.
     Permite criar aplicações Mobile.
@@ -43,5 +49,27 @@ O desenvolvimento Mobile para android foi evoluindo e com isso apareceu as ferra
         O mesmo código funciona em multi-plataforma, tanto Android quanto IOS.
         Quando optar: O negócio não depende de especificidades do Hardware.
 
-    Desvantagens:
-        
+    Desvantagens: ---
+
+
+    Espelhamento de tela:
+        Gratuíto:
+    É possível usar o Android Studio para desenvolver apps, download nesse link => https://developer.android.com/studio?gad_source=1&gclid=Cj0KCQiA4fi7BhC5ARIsAEV1Yia-evYQTLeuB3vkGnaq2qCfw71Cu-HLuONIXhjmqhmlFhgAuD-mKFsaAp7nEALw_wcB&gclsrc=aw.ds&hl=pt-br
+
+        Versão Grátis e paga.
+        Por ser um app muito pesado, os devs acabam por optar em usar o Vysor, nesse link => https://www.vysor.io/ (meu ponto de vista, o Vysor é uma bosta (pelo menos a versão gratuíta), a imagem é muito ruim, melhor usar o vincular celular do Windows)
+
+    Para criar um novo app
+    - no terminal, dentro da pasta desejada rode o comando
+        npx create-expo-app nome-do-app -t
+    - vai listar alguns template, usar o:
+        Blank (Typescript)
+    - Após a mensagem: 'Your project is ready!'
+        rodar o comando 'cd nome-do-app'
+
+    Iniciando o App 
+        use o comando "cd" para entrar na pasta do app, exemplo
+        cd my-app
+        após isso rode o comando:
+        npm rub start
+        Abra no celular o app do Expo go e scaneie o Qr-code ou coloque o endereço de ip que o start vai gerar.
